@@ -1,1 +1,1 @@
-# Light-effect
+# javascript-light-switch-project
